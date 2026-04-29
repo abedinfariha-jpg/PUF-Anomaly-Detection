@@ -10,3 +10,8 @@ This project implements a lightweight AI-assisted layer to protect XOR Arbiter P
 
 ## Results
 The system successfully identifies modeling attacks as statistical outliers, as shown in the generated scatter plots.
+Includes:
+- PUF security simulation code
+- AI anomaly detection implementation
+- Experimental results
+- Full IEEE-style research report
